@@ -2,7 +2,7 @@
     <div>
         <div class="card" @click="isActive = true;">
             <div class="card-img">
-                <img :src="image" />
+                <img :src="image" loading="lazy" />
             </div>
             <div class="card-content">
                 <h2>{{ title }}</h2>
@@ -122,7 +122,7 @@ export default {
     transform: scale(1.05);
     transition: .5s;
     cursor: pointer;
-    opacity: 80%;
+    opacity: 0.8;
 }
 
 .card .card-img {

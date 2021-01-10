@@ -1,7 +1,7 @@
 <template>
   <div class="elective">
     <div class="flex">
-      <img class="half-img" src="@/assets/bg3.jpg" />
+      <img class="half-img" src="@/assets/bg3.jpg" loading="lazy" />
       <div class="desc">
         <h1>CS-KMITL Elective Course</h1>
         <div>

@@ -5,46 +5,77 @@
         <div class="desc">
           <h1>About</h1>
           <div>
-            I'm studying <i>Computer Science</i> at Faculty of Science, King Mongkut's Institute of Technology Ladkrabang (KMITL).
+            I am a Ph.D. student in Electrical and Computer Engineering at Carnegie Mellon University - CMKL.
           </div>
           <br/>
-          <img src="@/assets/bg5.jpg" style="width: 100%; height: 200px; object-fit: cover;" />
-          <br/>
           <div>
-            <strong>🔥 Extracurricular Work 🔥</strong>
-  
+            <strong>Education</strong>
+            <ul>
+              <li>I pursued B.Sc. in Computer Science degree at Faculty of Science, King Mongkut's Institute of Technology Ladkrabang (KMITL), in 2016 - 2020.</li>
               <ul>
-                <li><b>Head of Staff, Project Coordinator</b> at CS KMITL Camp 10th</li>
-                <li><b>AI Developer</b> at ACME International (Thailand) Ltd.</li>
-                <li><b>Frontend Developer</b> at International Labour Organization</li>
-                <li><b>Teaching Assistant</b> at King Mongkut's International Demonstration School</li>
-                <li><b>Club President</b> of Science's Startup Club</li>
-                <li><b>Head</b> of CS-INFINITE Group (also organized React for Newbie, CS-KMITL Code Arcade 2019, CS-KMITL Programming Bootcamp 2020)</li>
+                <li>GPA 3.98/4.00 (First Class Honors, Gold Medal)</li>
+                <li>Completed the degree with 169 credits (33 additional credits from the degree's requirements)</li>
+                <li>"CSKMITL Certificate Blockchain System: The Development of an Information System Storing Students' Certificates Using Blockchain Technology" as a senior project (Advisor: Asst.Prof. Kridsada Budsara)</li>
               </ul>
-   
+            </ul>
+          </div>
+          <div>
+            <strong>Research</strong>
+              <ul>
+                <li>
+                  Ongoing...
+                </li>
+                <!--
+                <li>
+                  <b>🧭 Spatio-Temporal Indexing Strategies in NoSQL Databases</b><br>
+                  <i>J. Kulsawasd, K. Yuttapichai</i>
+                  <ul>
+                    <li>Working on proposing suggestions and recommendations of spatio-temporal indexing by exploting NoSQL databases' benefits</li>
+                  </ul>
+                </li>
+                <br>
+                <li><b>🎠 3DRUGS: 3D Reconstruction from Google Street View</b><br>
+                  <i>T. Witchaya, K. Yuttapichai, C. Harit</i>
+                  <ul>
+                    <li>Working on proposing an approach for reconstructing a 3D model using Google Street View images</li>
+                  </ul>
+                </li>
+                          <li><b>📗 Publicly Academic Achievement Data Blockchain</b><br>
+                  <i>B. Kridsada, K. Yuttapichai, S. Wandee</i>
+                  <ul>
+                    <li>Proposed design and implementation guidelines for developing a public blockchain system aiming for storing a public academic achievement data</li>
+                  </ul>   
+                </li>
+                <br>
+                <li><b>🚘 Thai Automatic License Plate Recognition</b><br>
+                  <i>K. Yuttapichai</i>
+                  <ul>
+                    <li>Working on an improvement</li>
+                    <li>Proposed an approach for recognizing Thai license plate numbers accurately and automatically using a state-of-the-art deep learning technique</li>
+                  </ul> 
+                </li>
+                -->
+              </ul>
           </div>
           <br/>
           <div>
-            <strong>🎲 Interest Field 🎲</strong>
+            <strong>Interest Field</strong>
             <br/>
             <ul>
-              <li><b>Machine Perception</b> (e.g., Scent Recognition, Taste Recognition, Speech Recognition)</li>
-              <li><b>Image Processing and Computer Vision</b> (e.g., 3D Reconstruction, Object Detection)</li>
-              <li><b>Deep Learning</b> (e.g., Deep Generative Models, Deep Reinforcement Learning)</li>
-              <li><b>Mixed Reality</b></li>
-              <li><b>Indexing Strategies</b> (e.g., Spatio-Temporal Indexes)</li>
-              <li><b>Game Design and Development</b> (e.g., Level Designing, Storytelling)</li>
-              <li><b>Cryptography</b> (e.g., Zero-Knowledge Proof)</li>
-              <li><b>Cybersecurity</b> (e.g., Threat Intelligence, Antivirus, IDS, NGFW)</li>
-              <li><b>Event-Driven Architecture and FaaS (Function-as-a-Service)</b></li>
-              <li><b>Quantum Computing</b></li>
-              <li><b>Distributed Ledger Technology</b></li>
+              <li><b>Deep Learning and Neural Networks</b> e.g., Deep Unsupervised Models, Deep Reinforcement Learning, Graph Neural Network</li>
+              <li><b>Appiled Artificial Intelligence</b> e.g., Computer Vision, Natural Language Understanding, Speech Recognition</li>
+              <li><b>Immersive Technologies</b> e.g., Augmented Reality, Virtual Reality, Telepresence</li>
+              <li><b>Computer Games</b> e.g., Game Design, Game Development, Level Design</li>
+              <li><b>Security and Privacy</b> e.g., Applied Cryptography, Accountable AI/ML, Privacy-Preserving System</li>
+              <li><b>Big Data Management and Architecture</b></li>
+              <li><b>Distributed System</b></li>
+              <li><b>Self-Driving System</b> e.g., Self-Driving Database</li>
             </ul>
           </div>
         </div>
       </div>
       <div class="col">
-        <img class="ful-img" src="@/assets/bg4.jpg"/>
+        <img class="ful-img" src="@/assets/bg4.jpg" loading="lazy"/>
       </div>
     </div>
   </div>

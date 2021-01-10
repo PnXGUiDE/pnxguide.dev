@@ -2,14 +2,14 @@
   <div class="home">
     <div class="flex">
       <div class="col">
-        <img class="ful-img" src="@/assets/bg1.jpg"/>
+        <img class="ful-img" src="@/assets/bg1.jpg" loading="lazy" />
       </div>
       <div class="col">
         <div class="desc">
-          <h1>I am Yuttapichai Kerdcharoen.</h1>
           <div>
-            A computer science undergraduate who passionates in artificial intelligence and rhythm games.
+            <b>I am Yuttapichai Kerdcharoen</b>, a computer science graduate who passionates in artificial intelligence, distributed system, and game design.
           </div>
+          <img class="logo-img" src="@/assets/logo.png" loading="lazy" />
         </div>
       </div>
     </div>
@@ -41,6 +41,11 @@ export default {
   height: 100%;
   width: 100%;
   object-fit: cover;
+}
+
+.flex .logo-img {
+  height: 200px;
+  width: 200px;
 }
 
 .flex .desc {

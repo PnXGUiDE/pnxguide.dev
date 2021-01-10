@@ -13,9 +13,6 @@
       <div class="item">
         <router-link to="/activity">🚀 Activity</router-link>
       </div>
-      <div class="item">
-        <router-link to="/elective">📝 CSKMITL Elective</router-link>
-      </div>
     </div>
     <router-view/>
   </div>
@@ -66,7 +63,7 @@
 }
 
 @keyframes fade-in {
-  0%    { opacity: 0%; }
-  100%  { opacity: 100%; }
+  0%    { opacity: 0; }
+  100%  { opacity: 1; }
 }
 </style>

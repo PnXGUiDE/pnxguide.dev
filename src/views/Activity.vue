@@ -6,8 +6,8 @@
 
 <style scoped>
 @keyframes fly-in {
-  0% { padding: 50px; opacity: 0%; }
-  100% { padding: 0px; opacity: 100%; }
+  0% { opacity: 0; }
+  100% { opacity: 1; }
 }
 
 .activity {
